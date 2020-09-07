@@ -1,9 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр Рахманов](https://up.htmlacademy.ru/htmlcss/29/user/1495729).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: [Юрий Белобородов]
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
